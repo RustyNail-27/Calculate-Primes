@@ -1,17 +1,7 @@
 /*
  * Russell Walton
- * T00249622
- * COMP 3050
- * Assignment 1
  * 
- * Purpose: to develop an efficient algorithm to compute and print all prime numbers between 2 and n (inclusive).
- * 
- * Language: Java
- * Editor/Compiler: Eclipse
- * OS: Mac OSX 10.11.2
- * Computer: MacBook Pro 2.9 GHz Intel Core i7
- * 
- * 
+ * Purpose: an algorithm to compute and print all prime numbers between 2 and n (inclusive)
  */
 
 import java.util.Scanner;
